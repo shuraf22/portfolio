@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afa28cae.css",
+    "main.js": "/static/js/main.904cf946.js",
+    "static/media/Shura.png": "/static/media/Shura.bfd2793d47f65f980c06.png",
+    "static/media/orderart.png": "/static/media/orderart.d314f041e9186c16c9ac.png",
+    "static/media/train-effective.png": "/static/media/train-effective.7e7712f300e4b89b195d.png",
+    "static/media/saarthi.png": "/static/media/saarthi.7739c850ab2577311447.png",
+    "static/media/go-play-polo.png": "/static/media/go-play-polo.95e818055a1bcd19b6be.png",
+    "static/media/eroofpro.png": "/static/media/eroofpro.a78ceb36bd42168608a7.png",
+    "static/media/ooti.png": "/static/media/ooti.9db8ea795647ee80ab40.png",
+    "static/media/jp.png": "/static/media/jp.c8e7a71224e3578b1442.png",
+    "static/media/stackoverflow.png": "/static/media/stackoverflow.b506132c24ac5b5c78db.png",
+    "static/media/deek-duke.png": "/static/media/deek-duke.52cdef7fcb4a039ffbff.png",
+    "static/media/twitter.png": "/static/media/twitter.edda376816ee56802865.png",
+    "static/media/next.png": "/static/media/next.8f854bd95b6b63d16f9a.png",
+    "static/media/www.png": "/static/media/www.4b72d14b72f7b2c61d19.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/linkedin.png": "/static/media/linkedin.91a44cef00a56bd8dc73.png",
+    "static/media/instagram.png": "/static/media/instagram.8e86e163c0a08978621f.png",
+    "static/media/kelle.png": "/static/media/kelle.0713f2e0494870824df1.png",
+    "index.html": "/index.html",
+    "main.afa28cae.css.map": "/static/css/main.afa28cae.css.map",
+    "main.904cf946.js.map": "/static/js/main.904cf946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afa28cae.css",
+    "static/js/main.904cf946.js"
+  ]
+}

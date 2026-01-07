@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "skillName": "HTML",
+      "class": "devicon-html5-plain"
+    },
+    {
+      "skillName": "CSS",
+      "class": "devicon-css3-plain"
+    },
+    {
+      "skillName": "Javascript",
+      "class": "devicon-javascript-plain"
+    },
+    {
+      "skillName": "Bootstrap",
+      "class": "devicon-bootstrap-plain"
+    },
+    {
+      "skillName": "Autocad",
+      "class": "devicon-ionic-original"
+    },
+    {
+      "skillName": "Linux",
+      "class": "devicon-realm-plain"
+    },
+    {
+      "skillName": "Wireshark",
+      "class": "devicon-jquery-plain"
+    },
+    {
+      "skillName": "Pentesting",
+      "class": "devicon-android-plain"
+    },
+    {
+      "skillName": "Bash",
+      "class": "devicon-bash-plain"
+    },
+    {
+      "skillName": "Github",
+      "class": "devicon-github-original"
+    },
+    {
+      "skillName": "Vercel",
+      "class": "devicon-vercel-original"
+    },
+    {
+      "skillName": "NPM",
+      "class": "devicon-npm-original-wordmark"
+    }
+  ]
+}

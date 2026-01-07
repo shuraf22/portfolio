@@ -1,0 +1,80 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "link": "https://securelogic.io/",
+      "company": "Logiciel Solutions",
+      "title": "Cybersecurity Consultant",
+      "dateFrom": "Sept 2023",
+      "dateTo": "Feb 2024",
+      "info": [
+        "Performed penetration testing for SaaS and enterprise clients.",
+        "Designed and implemented network security protocols.",
+        "Conducted security audits and vulnerability assessments."
+      ],
+      "stack": [
+        "Ethical Hacking",
+        "Network Security",
+        "Penetration Testing",
+        "Wireshark",
+        "Metasploit",
+        "Python",
+        "Firewall Configuration"
+      ],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #a31013, #ed4043)",
+      "colourSecondary": "linear-gradient(to bottom, #a31013, #ed4043)"
+    },
+    {
+      "id": 2,
+      "link": "https://archdesigns.com/",
+      "company": "Worksdelight",
+      "title": "Architectural Designer",
+      "dateFrom": "June 2025",
+      "dateTo": "Current",
+      "info": [
+        "Designed residential and commercial buildings from concept to execution.",
+        "Prepared 3D models, blueprints, and construction plans.",
+        "Coordinated with clients and contractors for project delivery."
+      ],
+      "stack": [
+        "AutoCAD",
+        "Revit",
+        "SketchUp",
+        "3D Modeling",
+        "BIM",
+        "Interior Design",
+        "Project Management"
+      ],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #3b7dd8, #6ab3f7)",
+      "colourSecondary": "linear-gradient(to bottom, #3b7dd8, #6ab3f7)"
+    },
+    {
+      "id": 3,
+      "link": "https://cyberarch.com/",
+      "company": "GeekyAnts",
+      "title": "Junior Cybersecurity & Architecture Consultant",
+      "dateFrom": "Jan 2025",
+      "dateTo": "May 2025",
+      "info": [
+        "Participated in projects combining secure IT systems with building design compliance.",
+        "Guided teams on both cybersecurity and architectural standards.",
+        "Delivered integrated solutions for smart and secure buildings."
+      ],
+      "stack": [
+        "Network Security",
+        "Python",
+        "Ethical Hacking",
+        "AutoCAD",
+        "3D Modeling",
+        "Project Management",
+        "BIM",
+        "Security Audits"
+      ],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #8b00ff, #d56fff)",
+      "colourSecondary": "linear-gradient(to bottom, #8b00ff, #d56fff)"
+    }
+  ]
+}

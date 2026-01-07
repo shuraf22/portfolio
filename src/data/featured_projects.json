@@ -1,0 +1,68 @@
+{
+  "featured_projects": [
+    {
+      "name": "Network Vulnerability Checker",
+      "link": "#",
+      "description": "A beginner-friendly cybersecurity tool that scans a small network for open ports and reports basic vulnerabilities.",
+      "colour": "linear-gradient(to top, #1f1f1f, #444444)",
+      "languages": [
+        { "name": "Python", "color": "#306998" },
+        { "name": "Network Basics", "color": "#00FF00" }
+      ],
+      "type": "cyber",
+      "logo": "cyberarch.png"
+    },
+    {
+      "name": "Modern Family House 3D Model",
+      "link": "#",
+      "description": "3D model of a modern family house created in SketchUp and Rhino 3D, with detailed interior and exterior visualization.",
+      "colour": "linear-gradient(to bottom right, #3b7dd8, #6ab3f7)",
+      "languages": [
+        { "name": "SketchUp", "color": "#EA4335" },
+        { "name": "Rhino 3D", "color": "#00ADEF" },
+        { "name": "Polycam", "color": "#FFAA00" }
+      ],
+      "type": "architecture",
+      "logo": "house3d.png"
+    },
+    {
+      "name": "Cozy Apartment Interior Design",
+      "link": "#",
+      "description": "Junior-level interior design project for a cozy apartment using AutoDesk Revit and Adobe Photoshop for realistic renderings.",
+      "colour": "linear-gradient(to bottom right, #3b7dd8, #6ab3f7)",
+      "languages": [
+        { "name": "AutoDesk Revit", "color": "#FF0000" },
+        { "name": "Adobe Photoshop", "color": "#31A8FF" },
+        { "name": "3D Modeling", "color": "#FFAA00" }
+      ],
+      "type": "architecture",
+      "logo": "apartment.png"
+    },
+    {
+      "name": "Luxury Villa Project",
+      "link": "#",
+      "description": "A junior-friendly luxury villa showcasing floor plans, 3D exterior modeling, and landscape design using Revit, SketchUp, and Rhino 3D.",
+      "colour": "linear-gradient(to bottom right, #3b7dd8, #6ab3f7)",
+      "languages": [
+        { "name": "AutoDesk Revit", "color": "#FF0000" },
+        { "name": "SketchUp", "color": "#EA4335" },
+        { "name": "Rhino 3D", "color": "#00ADEF" }
+      ],
+      "type": "architecture",
+      "logo": "villa.png"
+    },
+    {
+      "name": "Commercial Office Blueprint",
+      "link": "#",
+      "description": "2D and 3D floor plans for a small commercial office building. Designs created in AutoDesk Revit with presentation visuals enhanced in Adobe Illustrator and InDesign.",
+      "colour": "linear-gradient(to bottom right, #3b7dd8, #6ab3f7)",
+      "languages": [
+        { "name": "AutoDesk Revit", "color": "#FF0000" },
+        { "name": "Adobe Illustrator", "color": "#FF9A00" },
+        { "name": "Adobe InDesign", "color": "#FF6600" }
+      ],
+      "type": "architecture",
+      "logo": "commercial.png"
+    }
+  ]
+}
